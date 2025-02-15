@@ -1,4 +1,4 @@
-**Conclusiones sobre karate:**
+**Conclusiones y hallazgos sobre reto desarrollado con karate:**
 
 1. Se pueden realizar automatizaciones mucho mas densas y profundas que en otras herramientas como postman para realizar pruebas back
 2. Es una ventaja tener la compatibilidad con lenguaje Gherkin
